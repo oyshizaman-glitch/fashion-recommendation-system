@@ -1,0 +1,28 @@
+2026-01-03T18:57:15+01:00 - invalid_csrf token=4536aa1d5384f547d8f399824da4e73b sid=ftjp0nthn80rhr96d87b1vlib7 cookie=ftjp0nthn80rhr96d87b1vlib7 stored_count=93
+2026-01-03T18:58:07+01:00 - invalid_csrf token=4536aa1d5384f547d8f399824da4e73b sid=ftjp0nthn80rhr96d87b1vlib7 cookie=ftjp0nthn80rhr96d87b1vlib7 stored_count=93
+2026-01-03T18:59:19+01:00 - invalid_csrf token=4536aa1d5384f547d8f399824da4e73b sid=ftjp0nthn80rhr96d87b1vlib7 cookie=ftjp0nthn80rhr96d87b1vlib7 stored_count=93
+2026-01-03T18:59:19+01:00 - csrf_bypassed for user_id=1
+2026-01-03T19:04:07+01:00 - getimagesize_failed mime=image/heic tmp=E:\xampp\tmp\php9EC7.tmp size=2228126
+2026-01-03T19:04:08+01:00 - getimagesize_failed mime=image/heic tmp=E:\xampp\tmp\phpA3E9.tmp size=2228126
+2026-01-03T19:07:40+01:00 - getimagesize_failed mime=image/heic tmp=E:\xampp\tmp\phpE039.tmp size=2228126
+2026-01-03T19:38:12+01:00 - shutdown_error: {"type":1,"message":"Uncaught Error: Call to undefined function imagecreatetruecolor() in E:\\xampp\\htdocs\\CSE 370 PROJECT\\uploads_helper.php:8\nStack trace:\n#0 E:\\xampp\\htdocs\\CSE 370 PROJECT\\upload_item_image.php(220): make_thumb('E:\\\\xampp\\\\htdocs...', 'E:\\\\xampp\\\\htdocs...', 600, 400)\n#1 {main}\n  thrown","file":"E:\\xampp\\htdocs\\CSE 370 PROJECT\\uploads_helper.php","line":8}
+2026-01-03T20:02:31+01:00 - permissive_debug_enabled
+2026-01-03T20:02:31+01:00 - csrf_bypassed for debugging token=c0bc853688cd538efc827c09bf08fbee
+2026-01-03T20:04:33+01:00 - permissive_debug_enabled
+2026-01-03T20:04:33+01:00 - csrf_bypassed for debugging token=96046cab5c3172af2a882a39f1c6e905
+2026-01-03T20:29:35+01:00 - permissive_debug_enabled
+2026-01-03T20:29:35+01:00 - csrf_bypassed for debugging token=06c89b734d9b16daff8ca52c4470ec03
+2026-01-03T20:29:48+01:00 - permissive_debug_enabled
+2026-01-03T20:29:48+01:00 - csrf_bypassed for debugging token=34fc40733bd57da1aac9411272d431d2
+2026-01-03T21:00:14+01:00 - permissive_debug_enabled
+2026-01-03T21:00:14+01:00 - csrf_bypassed for debugging token=47a77140d5de625c3fa89ce64a97f65e
+2026-01-03T21:00:25+01:00 - permissive_debug_enabled
+2026-01-03T21:00:25+01:00 - csrf_bypassed for debugging token=d6fd5594d1730c30e3ac92169cb7132e
+2026-01-03T21:00:45+01:00 - permissive_debug_enabled
+2026-01-03T21:00:45+01:00 - csrf_bypassed for debugging token=8b0e67cd91193b583b482ec70e7674a2
+2026-01-03T21:00:54+01:00 - permissive_debug_enabled
+2026-01-03T21:00:54+01:00 - csrf_bypassed for debugging token=bbaf6c49bac9b982f478dd2340d37551
+2026-01-03T21:01:02+01:00 - permissive_debug_enabled
+2026-01-03T21:01:02+01:00 - csrf_bypassed for debugging token=7450b839644c7d6ec0f0b04f0a4823da
+2026-01-03T21:01:09+01:00 - permissive_debug_enabled
+2026-01-03T21:01:09+01:00 - csrf_bypassed for debugging token=a7c580fa911a7f243ba0d0ef1fa549a6
